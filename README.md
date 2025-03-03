@@ -1,83 +1,91 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Xx-COBA-xX.Xx-COBA-xX" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+HAIDER+AL-TIMIMY!;" />
-</h1>
-
-<h3 align="center">A passionate Flutter developer & graphics design from IRAQ 🇮🇶 </h3>
-
-<br/>
-<img width=390 align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- Header Banner -->
 <div align="center">
- 
- 🔭 I’m currently working on **T Store app**
- 
- 🌱 I’m currently learning **Node.js, express, MongoDB**
-
-💬 Ask me about **Java, Flutter, Firebase ,Dart... or anything [here](https://github.com/Xx-COBA-xX/Xx-COBA-xX/issues)**
-
-⚡ Fun fact **I think I'm funny**
-
- </div>
- 
-<div align="center"> 
-  <a href="haider.new.it@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/haider-al-tamimi-45022b266/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/Xx-COBA-xX" target="_blank">
-     <img  src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
- <br/>
- <br/>
- <br/>
- <br/>
- <hr/>
-
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,html,css,vscode,github,figma,tailwind,git," />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,cpp,java,mysql,dart" /><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Haider%20Al-Timimy&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" />
 </div>
 
-<br/>
-<hr/>
+<!-- Profile Views Counter -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Xx-COBA-xX&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
+<!-- Introduction -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Flutter+Developer+%F0%9F%93%B1;UI/UX+Designer+%F0%9F%8E%A8;Graphics+Designer+%F0%9F%8E%AF" alt="Typing SVG" />
+</h3>
+
+<!-- About Me Section -->
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
   
-  <br/><br/><br/>
+  ### 👨‍💻 About Me
+  
+  🔭 Currently working on **T Store App**
+  
+  🌱 Learning **Node.js, Express & MongoDB**
+  
+  💬 Ask me about **Flutter, Firebase & Dart**
+  
+  🌍 Based in **Iraq 🇮🇶**
+  
+  ⚡ Fun fact: **Code is poetry in motion**
 </div>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=xx-coba-xx&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=xx-coba-xx&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <p><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xx-coba-xx&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" alt="xx-coba-xx" /></p>
-
+<!-- Tech Stack Section -->
+<h2 align="center">🛠️ Technologies & Tools</h2>
+<div align="center">
+  
+  <!-- Frontend -->
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  
+  <!-- Backend -->
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+  
+  <!-- Tools -->
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </div>
 
-<br/><br/>
-
-<hr/>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You+😊!;" />
-</h1>
-
-<br/>
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Statistics</h2>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Xx-COBA-xX&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Xx-COBA-xX&theme=tokyonight" />
+</div>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xx-COBA-xX&layout=compact&theme=tokyonight" />
+</div>
+
+<!-- Connect Section -->
+<h2 align="center">🤝 Let's Connect</h2>
+<div align="center">
+  <a href="mailto:haider.new.it@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/haider-al-tamimi-45022b266/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Xx-COBA-xX">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+<!-- Support -->
+<div align="center">
+  <a href='https://ko-fi.com/V7V4RAK9C'>
+    <img src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' height='50' alt='Support me at ko-fi.com' />
+  </a>
 </div>
